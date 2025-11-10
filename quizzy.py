@@ -1,7 +1,11 @@
 import google.generativeai as genai
 import re
+import os
+from dotenv import load_dotenv
 
-API_KEY = "AIzaSyBFHp0PTfpuoAriAKA8Iw7xH5Y0YfG8mBk"
+load_dotenv()
+
+API_KEY = os.getenv("API_KEY")
 
 def clean_text (text):
     text = re.sub(r'\*{1,2}', '', text)
@@ -20,7 +24,7 @@ def run_chatbot():
     chat = model.start_chat(history=[{
         "role": "user",
         "parts": [
-            "Mulai dari sekarang, kamu adalah 'Quizzy', chatbot edukasi untuk siswa SMA dalam mempersiapkan ujian TKA SAINTEK.",
+            "Mulai dari sekarang, kamu adalah 'Quizzy', chatbot edukasi untuk siswa SMA dalam mempersiapkan TKA SAINTEK.",
             "jawabanmu harus selalu rapi, terstruktur, dan mudah dipahami.",
             "gunakan format seperti ini:\n",
             "1️⃣ Langkah-langkah jelas\n",
@@ -39,7 +43,7 @@ def run_chatbot():
     print("Type 'exit' anytime if you’re done, but hey... winners don’t quit that easily 😉\n")
 
     while True :
-        user_input = input("Your: ")
+        user_input = input("You: ")
         if user_input.lower() == "exit":
             print("Quizzy: Catch you later, genius. 🫵😉")
             break
