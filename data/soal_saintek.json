@@ -1,0 +1,53 @@
+{
+  "Fisika": [
+    {"soal": "Satuan gaya dalam SI adalah ...", "pilihan": ["A. Joule", "B. Newton", "C. Watt", "D. Pascal"], "jawaban": "B"},
+    {"soal": "Hukum Newton II berbunyi ...", "pilihan": ["A. Gaya aksi = reaksi", "B. F = m × a", "C. Gaya = tekanan × luas", "D. Benda tetap diam tanpa gaya"], "jawaban": "B"},
+    {"soal": "Energi kinetik dirumuskan sebagai ...", "pilihan": ["A. ½mv²", "B. mgh", "C. F × s", "D. p × v"], "jawaban": "A"},
+    {"soal": "Satuan energi dalam SI adalah ...", "pilihan": ["A. Joule", "B. Newton", "C. Watt", "D. Pascal"], "jawaban": "A"},
+    {"soal": "Besaran turunan adalah ...", "pilihan": ["A. Panjang", "B. Massa", "C. Gaya", "D. Waktu"], "jawaban": "C"},
+    {"soal": "Kecepatan adalah ...", "pilihan": ["A. Jarak dibagi waktu", "B. Waktu dibagi jarak", "C. Massa kali percepatan", "D. Energi per waktu"], "jawaban": "A"},
+    {"soal": "Usaha bernilai nol jika ...", "pilihan": ["A. Gaya tegak lurus perpindahan", "B. Gaya sejajar perpindahan", "C. Tidak ada gaya", "D. Tidak ada massa"], "jawaban": "A"},
+    {"soal": "Percepatan gravitasi di bumi sebesar ...", "pilihan": ["A. 8.9 m/s²", "B. 9.8 m/s²", "C. 10 m/s²", "D. 12 m/s²"], "jawaban": "B"},
+    {"soal": "Tekanan hidrostatis bergantung pada ...", "pilihan": ["A. Massa benda", "B. Kedalaman dan massa jenis fluida", "C. Suhu air", "D. Bentuk wadah"], "jawaban": "B"},
+    {"soal": "Hukum Archimedes menjelaskan tentang ...", "pilihan": ["A. Gaya apung", "B. Gaya gesek", "C. Gaya normal", "D. Gaya magnet"], "jawaban": "A"}
+  ],
+
+  "Kimia": [
+    {"soal": "Rumus kimia air adalah ...", "pilihan": ["A. H2", "B. H2O", "C. O2", "D. CO2"], "jawaban": "B"},
+    {"soal": "Atom terdiri dari ...", "pilihan": ["A. Proton dan Elektron", "B. Proton, Neutron, Elektron", "C. Elektron dan Isotop", "D. Ion saja"], "jawaban": "B"},
+    {"soal": "Nomor atom menunjukkan jumlah ...", "pilihan": ["A. Proton", "B. Neutron", "C. Elektron", "D. Isotop"], "jawaban": "A"},
+    {"soal": "Unsur paling ringan di tabel periodik adalah ...", "pilihan": ["A. Helium", "B. Hidrogen", "C. Litium", "D. Karbon"], "jawaban": "B"},
+    {"soal": "Zat yang tidak dapat diuraikan lagi disebut ...", "pilihan": ["A. Senyawa", "B. Unsur", "C. Campuran", "D. Ion"], "jawaban": "B"},
+    {"soal": "H2SO4 dikenal sebagai ...", "pilihan": ["A. Asam klorida", "B. Asam sulfat", "C. Asam nitrat", "D. Asam asetat"], "jawaban": "B"},
+    {"soal": "CO2 termasuk jenis gas ...", "pilihan": ["A. Mulia", "B. Asam", "C. Basa", "D. Alkali"], "jawaban": "B"},
+    {"soal": "Molekul O3 disebut ...", "pilihan": ["A. Oksida", "B. Ozon", "C. Oksigen", "D. Hidrogen peroksida"], "jawaban": "B"},
+    {"soal": "Elektron berada di ...", "pilihan": ["A. Inti atom", "B. Kulit atom", "C. Neutron", "D. Proton"], "jawaban": "B"},
+    {"soal": "Asam + Basa menghasilkan ...", "pilihan": ["A. Garam + Air", "B. Logam + Gas", "C. Asam lemah", "D. Basa kuat"], "jawaban": "A"}
+  ],
+
+  "Biologi": [
+    {"soal": "Sel merupakan ...", "pilihan": ["A. Organ terkecil", "B. Unit terkecil kehidupan", "C. Jaringan", "D. Sistem organ"], "jawaban": "B"},
+    {"soal": "Organisme autotrof memperoleh makanan dengan ...", "pilihan": ["A. Memangsa", "B. Fotosintesis", "C. Fermentasi", "D. Parasitisme"], "jawaban": "B"},
+    {"soal": "Bagian sel yang mengatur seluruh aktivitas sel adalah ...", "pilihan": ["A. Inti sel", "B. Mitokondria", "C. Sitoplasma", "D. Dinding sel"], "jawaban": "A"},
+    {"soal": "DNA terdapat di ...", "pilihan": ["A. Sitoplasma", "B. Inti sel", "C. Ribosom", "D. Mitokondria"], "jawaban": "B"},
+    {"soal": "Proses fotosintesis terjadi di ...", "pilihan": ["A. Kloroplas", "B. Mitokondria", "C. Nukleus", "D. Vakuola"], "jawaban": "A"},
+    {"soal": "Organ pernapasan pada ikan adalah ...", "pilihan": ["A. Paru-paru", "B. Insang", "C. Trakea", "D. Kulit"], "jawaban": "B"},
+    {"soal": "Hormon insulin dihasilkan oleh ...", "pilihan": ["A. Pankreas", "B. Hati", "C. Ginjal", "D. Jantung"], "jawaban": "A"},
+    {"soal": "Tumbuhan berbiji terbuka disebut ...", "pilihan": ["A. Monokotil", "B. Dikotil", "C. Gymnospermae", "D. Angiospermae"], "jawaban": "C"},
+    {"soal": "Bagian daun tempat fotosintesis utama adalah ...", "pilihan": ["A. Epidermis", "B. Mesofil", "C. Xilem", "D. Floem"], "jawaban": "B"},
+    {"soal": "Fungsi mitokondria adalah ...", "pilihan": ["A. Respirasi seluler", "B. Fotosintesis", "C. Penyimpanan air", "D. Sintesis protein"], "jawaban": "A"}
+  ],
+
+  "Matematika": [
+    {"soal": "Hasil dari 2² + 3² adalah ...", "pilihan": ["A. 10", "B. 12", "C. 13", "D. 14"], "jawaban": "C"},
+    {"soal": "Turunan dari f(x) = x² adalah ...", "pilihan": ["A. x", "B. 2x", "C. x²", "D. 2x²"], "jawaban": "B"},
+    {"soal": "Integral dari 2x dx adalah ...", "pilihan": ["A. 2x²", "B. x² + C", "C. x²", "D. 2x"], "jawaban": "B"},
+    {"soal": "Nilai dari log(100) adalah ...", "pilihan": ["A. 1", "B. 2", "C. 10", "D. 100"], "jawaban": "B"},
+    {"soal": "π (pi) bernilai sekitar ...", "pilihan": ["A. 2,14", "B. 3,14", "C. 4,13", "D. 5,13"], "jawaban": "B"},
+    {"soal": "Luas lingkaran = ...", "pilihan": ["A. πr²", "B. 2πr", "C. πd", "D. r²"], "jawaban": "A"},
+    {"soal": "Akar dari 49 adalah ...", "pilihan": ["A. 6", "B. 7", "C. 8", "D. 9"], "jawaban": "B"},
+    {"soal": "Rumus keliling persegi adalah ...", "pilihan": ["A. 2s", "B. 4s", "C. s²", "D. s × s"], "jawaban": "B"},
+    {"soal": "Jika x = 3, maka nilai 2x + 1 = ...", "pilihan": ["A. 5", "B. 6", "C. 7", "D. 8"], "jawaban": "C"},
+    {"soal": "Nilai dari 10³ adalah ...", "pilihan": ["A. 30", "B. 100", "C. 1000", "D. 10"], "jawaban": "C"}
+  ]
+}
